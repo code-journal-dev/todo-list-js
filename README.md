@@ -30,4 +30,5 @@ todo-list-js/
 
 👨‍💻 Author
 Maarke Rajalakshmi
+
 GitHub: code-journal-dev
