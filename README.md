@@ -27,3 +27,7 @@ todo-list-js/
 │── script.js
 │── README.md
 ```
+
+👨‍💻 Author
+Maarke Rajalakshmi
+GitHub: code-journal-dev
